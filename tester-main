@@ -1,2 +1,3 @@
-i =2 
-if i<5 then print (panda) else print(none)
+i= 2
+b= 6
+print(i**b)
